@@ -9,3 +9,4 @@ router.post('/login')
 router.get('/users')
 
 module.exports = router
+log
